@@ -1,4 +1,6 @@
-# Project Title
+# Interview Challenge
+
+App to simulate ordering when using aggregate functions in SQL.
 
 This Spring Boot application simulates the management of quotations, where each quotation has a list of products and groups. The application requires Java 17, uses a Gradle Wrapper, an H2 database, and Hibernate.
 
@@ -38,4 +40,5 @@ The application comes with an H2 in-memory database. Hibernate, the ORM layer, e
 
 This application models a real-world scenario where quotations are linked to various products in different groups. The main components are Quotations and Products, with products organized by groups.
 
-The "/quotations" endpoint displays all quotations, sorted by group and the products they contain. Products are listed in ascending order and separated by commas.
+The "/quotations" endpoint displays all quotations, sorted by group and the products they contain. Products are listed in ascending orde and separated by commas.
+
