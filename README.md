@@ -41,4 +41,3 @@ The application comes with an H2 in-memory database. Hibernate, the ORM layer, e
 This application models a real-world scenario where quotations are linked to various products in different groups. The main components are Quotations and Products, with products organized by groups.
 
 The "/quotations" endpoint displays all quotations, sorted by group and the products they contain. Products are listed in ascending orde and separated by commas.
-
